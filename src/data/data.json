@@ -1,0 +1,30 @@
+{
+    "introduction": {
+        "name": "GhostDev",
+        "occupation": "Software Developer, AI Enthusiast",
+        "description": "I'm an indie full-stack developer and AI enthusiast building insightfull and interesting projects that I find meaningful. All coding projects are built from the ground up, from research and design to real-world problem solving. As I continue to research cutting-edge AI algorithms and one day hope to contribute to this exciting field, my repository will be my source of experimentation and development. I am a firm believer in learning in public, checkout my twitter '@ghostdev-ai' to see what I'm currently learning as well as projects that I'm developing.",
+        "socials": [
+            {
+                "platform": "GitHub",
+                "url": "https://github.com/ghostdev-ai"
+            },
+            {
+                "platform": "Twitter",
+                "url": "https://twitter.com/ghostdev_ai"
+            },
+            {
+                "platform": "LinkedIn",
+                "url": "https://www.linkedin.com/in/ulisesgomezjr/"
+            }
+        ]  
+    },
+    "projects": [
+        {
+            "title": "GPT-Terminal",
+            "description": "GPT-Terminal, a large language model prompt engineered to perform tasks over the terminal from simple bash commands to code generation.",
+            "imgUrl": "src/assets/laptop-code.jpg",
+            "stack": ["Python", "LangChain", "Pinecone"],
+            "repoUrl": "https://github.com/ugomezjr/termgpt" 
+        }
+    ]
+}
